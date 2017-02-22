@@ -1,0 +1,4 @@
+CalcNota.MainActivity, CalcNota;md5ddbbb69c12f9e15739e849e968809f5e.MainActivity
+CalcNota.MainActivity, CalcNota, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5ddbbb69c12f9e15739e849e968809f5e.MainActivity
+CalcNota.MainActivity;md5ddbbb69c12f9e15739e849e968809f5e.MainActivity
+calcnota.MainActivity;md5ddbbb69c12f9e15739e849e968809f5e.MainActivity
