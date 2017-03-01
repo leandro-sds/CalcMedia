@@ -10,6 +10,7 @@ d:\documentos\visual studio 2013\Projects\CalcNota\CalcNota\obj\Debug\res\values
 d:\documentos\visual studio 2013\Projects\CalcNota\CalcNota\obj\Debug\res\drawable\icon.png
 d:\documentos\visual studio 2013\Projects\CalcNota\CalcNota\obj\Debug\R.cs.flag
 d:\documentos\visual studio 2013\Projects\CalcNota\CalcNota\obj\Debug\uploadflags.txt
+d:\documentos\visual studio 2013\Projects\CalcNota\CalcNota\obj\Debug\CalcNota.csprojResolveAssemblyReference.cache
 d:\documentos\visual studio 2013\Projects\CalcNota\CalcNota\bin\Debug\CalcNota.dll.mdb
 d:\documentos\visual studio 2013\Projects\CalcNota\CalcNota\bin\Debug\Java.Interop.dll.mdb
 d:\documentos\visual studio 2013\Projects\CalcNota\CalcNota\bin\Debug\Mono.Android.dll.mdb

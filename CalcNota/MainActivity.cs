@@ -12,13 +12,14 @@ namespace CalcNota {
              
             // Set our view from the "main" layout resource
             SetContentView (Resource.Layout.Main);
+        }
 
-            TextView res = FindViewById<TextView>(Resource.Id.showStatus);
+        public void Calcular() {
             Button btnCalc = FindViewById<Button>(Resource.Id.calcular);
+
             btnCalc.Click += delegate {
-
                 double aux1, aux2;
-
+                TextView res = FindViewById<TextView>(Resource.Id.showStatus);
                 aux1 = Convert.ToDouble(FindViewById<TextView>(Resource.Id.editNota1).Text);
                 aux2 = Convert.ToDouble(FindViewById<TextView>(Resource.Id.editNota2).Text);
 
@@ -33,10 +34,6 @@ namespace CalcNota {
                 }
             };
         }
-
-
-
-        
     }
 }
 
